@@ -7,7 +7,7 @@ Our goal for this project is to predict rainfall in Australia using different cl
 
 ## Contributing
 Contributors: 
-[Jacob McFarlane](https://github.com/JacobMcFarlane)
-[Sukhdeep Kaur](https://github.com/sukh2929)
-[Yiki Su](https://github.com/YikiSu)
-[Sang Yoon Lee](https://github.com/rissangs)
+- [Jacob McFarlane](https://github.com/JacobMcFarlane)
+- [Sukhdeep Kaur](https://github.com/sukh2929)
+- [Yiki Su](https://github.com/YikiSu)
+- [Sang Yoon Lee](https://github.com/rissangs)
